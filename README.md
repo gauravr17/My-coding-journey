@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gauravr17/My-coding-journey/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/gauravr17/My-coding-journey/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/gauravr17/My-coding-journey/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/gauravr17/My-coding-journey/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/gauravr17/My-coding-journey/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/gauravr17/My-coding-journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/gauravr17/My-coding-journey/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/gauravr17/My-coding-journey/tree/master/0345-reverse-vowels-of-a-string) |
 ## String Matching
 |  |
 | ------- |
