@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gauravr17/My-coding-journey/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/gauravr17/My-coding-journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gauravr17/My-coding-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/gauravr17/My-coding-journey/tree/master/0225-implement-stack-using-queues) |
 ## Linked List
 |  |
 | ------- |
@@ -213,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/gauravr17/My-coding-journey/tree/master/0219-contains-duplicate-ii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/gauravr17/My-coding-journey/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/gauravr17/My-coding-journey/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
