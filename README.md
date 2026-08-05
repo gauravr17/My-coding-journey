@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/gauravr17/My-coding-journey/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/gauravr17/My-coding-journey/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/gauravr17/My-coding-journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/gauravr17/My-coding-journey/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gauravr17/My-coding-journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/gauravr17/My-coding-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gauravr17/My-coding-journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/gauravr17/My-coding-journey/tree/master/0219-contains-duplicate-ii) |
 ## Trie
 |  |
 | ------- |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gauravr17/My-coding-journey/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/gauravr17/My-coding-journey/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
