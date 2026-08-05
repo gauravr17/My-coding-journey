@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gauravr17/My-coding-journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gauravr17/My-coding-journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/gauravr17/My-coding-journey/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/gauravr17/My-coding-journey/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/gauravr17/My-coding-journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/gauravr17/My-coding-journey/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/gauravr17/My-coding-journey/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/gauravr17/My-coding-journey/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gauravr17/My-coding-journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gauravr17/My-coding-journey/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/gauravr17/My-coding-journey/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/gauravr17/My-coding-journey/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/gauravr17/My-coding-journey/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/gauravr17/My-coding-journey/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/gauravr17/My-coding-journey/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/gauravr17/My-coding-journey/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/gauravr17/My-coding-journey/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/gauravr17/My-coding-journey/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/gauravr17/My-coding-journey/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -158,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gauravr17/My-coding-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gauravr17/My-coding-journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gauravr17/My-coding-journey/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/gauravr17/My-coding-journey/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
