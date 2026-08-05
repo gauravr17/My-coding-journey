@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gauravr17/My-coding-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauravr17/My-coding-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/gauravr17/My-coding-journey/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/gauravr17/My-coding-journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/gauravr17/My-coding-journey/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gauravr17/My-coding-journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/gauravr17/My-coding-journey/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/gauravr17/My-coding-journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/gauravr17/My-coding-journey/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/gauravr17/My-coding-journey/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/gauravr17/My-coding-journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/gauravr17/My-coding-journey/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/gauravr17/My-coding-journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
