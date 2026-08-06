@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/gauravr17/My-coding-journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauravr17/My-coding-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/gauravr17/My-coding-journey/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/gauravr17/My-coding-journey/tree/master/0409-longest-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/gauravr17/My-coding-journey/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/gauravr17/My-coding-journey/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gauravr17/My-coding-journey/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0409-longest-palindrome](https://github.com/gauravr17/My-coding-journey/tree/master/0409-longest-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -344,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/gauravr17/My-coding-journey/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/gauravr17/My-coding-journey/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/gauravr17/My-coding-journey/tree/master/0183-customers-who-never-order) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/gauravr17/My-coding-journey/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
