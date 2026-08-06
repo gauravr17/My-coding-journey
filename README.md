@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/gauravr17/My-coding-journey/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/gauravr17/My-coding-journey/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gauravr17/My-coding-journey/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/gauravr17/My-coding-journey/tree/master/0461-hamming-distance) |
 ## Simulation
 |  |
 | ------- |
