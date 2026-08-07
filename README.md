@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/gauravr17/My-coding-journey/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/gauravr17/My-coding-journey/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gauravr17/My-coding-journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/gauravr17/My-coding-journey/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gauravr17/My-coding-journey/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/gauravr17/My-coding-journey/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/gauravr17/My-coding-journey/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/gauravr17/My-coding-journey/tree/master/0496-next-greater-element-i) |
 ## Trie
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gauravr17/My-coding-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/gauravr17/My-coding-journey/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/gauravr17/My-coding-journey/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/gauravr17/My-coding-journey/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -386,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/gauravr17/My-coding-journey/tree/master/0463-island-perimeter) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gauravr17/My-coding-journey/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
