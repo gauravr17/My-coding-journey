@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravr17/My-coding-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/gauravr17/My-coding-journey/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0572-subtree-of-another-tree) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/gauravr17/My-coding-journey/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/gauravr17/My-coding-journey/tree/master/0404-sum-of-left-leaves) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/gauravr17/My-coding-journey/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/gauravr17/My-coding-journey/tree/master/0463-island-perimeter) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/gauravr17/My-coding-journey/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/gauravr17/My-coding-journey/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -408,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/gauravr17/My-coding-journey/tree/master/0561-array-partition) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
