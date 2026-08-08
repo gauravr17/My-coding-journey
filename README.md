@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gauravr17/My-coding-journey/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/gauravr17/My-coding-journey/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/gauravr17/My-coding-journey/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/gauravr17/My-coding-journey/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/gauravr17/My-coding-journey/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/gauravr17/My-coding-journey/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravr17/My-coding-journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/gauravr17/My-coding-journey/tree/master/0645-set-mismatch) |
 ## Trie
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gauravr17/My-coding-journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/gauravr17/My-coding-journey/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/gauravr17/My-coding-journey/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/gauravr17/My-coding-journey/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gauravr17/My-coding-journey/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/gauravr17/My-coding-journey/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravr17/My-coding-journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/gauravr17/My-coding-journey/tree/master/0645-set-mismatch) |
 ## Tree
 |  |
 | ------- |
