@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/gauravr17/My-coding-journey/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/gauravr17/My-coding-journey/tree/master/0504-base-7) |
 | [0598-range-addition-ii](https://github.com/gauravr17/My-coding-journey/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gauravr17/My-coding-journey/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/gauravr17/My-coding-journey/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/gauravr17/My-coding-journey/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/gauravr17/My-coding-journey/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gauravr17/My-coding-journey/tree/master/0628-maximum-product-of-three-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/gauravr17/My-coding-journey/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/gauravr17/My-coding-journey/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/gauravr17/My-coding-journey/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gauravr17/My-coding-journey/tree/master/0628-maximum-product-of-three-numbers) |
 ## Tree
 |  |
 | ------- |
