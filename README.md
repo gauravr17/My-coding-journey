@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/gauravr17/My-coding-journey/tree/master/0404-sum-of-left-leaves) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/gauravr17/My-coding-journey/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/gauravr17/My-coding-journey/tree/master/0463-island-perimeter) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/gauravr17/My-coding-journey/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/gauravr17/My-coding-journey/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/gauravr17/My-coding-journey/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/gauravr17/My-coding-journey/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/gauravr17/My-coding-journey/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/gauravr17/My-coding-journey/tree/master/0463-island-perimeter) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/gauravr17/My-coding-journey/tree/master/0617-merge-two-binary-trees) |
 ## Divide and Conquer
 |  |
 | ------- |
