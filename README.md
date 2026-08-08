@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravr17/My-coding-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/gauravr17/My-coding-journey/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/gauravr17/My-coding-journey/tree/master/0392-is-subsequence) |
+| [0629-k-inverse-pairs-array](https://github.com/gauravr17/My-coding-journey/tree/master/0629-k-inverse-pairs-array) |
 ## Memoization
 |  |
 | ------- |
