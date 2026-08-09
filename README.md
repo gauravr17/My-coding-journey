@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/gauravr17/My-coding-journey/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauravr17/My-coding-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/gauravr17/My-coding-journey/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/gauravr17/My-coding-journey/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravr17/My-coding-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/gauravr17/My-coding-journey/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/gauravr17/My-coding-journey/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/gauravr17/My-coding-journey/tree/master/0706-design-hashmap) |
 ## Trie
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/gauravr17/My-coding-journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/gauravr17/My-coding-journey/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/gauravr17/My-coding-journey/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/gauravr17/My-coding-journey/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/gauravr17/My-coding-journey/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gauravr17/My-coding-journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/gauravr17/My-coding-journey/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/gauravr17/My-coding-journey/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/gauravr17/My-coding-journey/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/gauravr17/My-coding-journey/tree/master/0706-design-hashmap) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
