@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/gauravr17/My-coding-journey/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/gauravr17/My-coding-journey/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/gauravr17/My-coding-journey/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/gauravr17/My-coding-journey/tree/master/0821-shortest-distance-to-a-character) |
 ## Array
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/gauravr17/My-coding-journey/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/gauravr17/My-coding-journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gauravr17/My-coding-journey/tree/master/0706-design-hashmap) |
+| [0821-shortest-distance-to-a-character](https://github.com/gauravr17/My-coding-journey/tree/master/0821-shortest-distance-to-a-character) |
 ## Trie
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gauravr17/My-coding-journey/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauravr17/My-coding-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/gauravr17/My-coding-journey/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/gauravr17/My-coding-journey/tree/master/0821-shortest-distance-to-a-character) |
 ## String Matching
 |  |
 | ------- |
