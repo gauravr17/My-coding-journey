@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/gauravr17/My-coding-journey/tree/master/0706-design-hashmap) |
 | [0821-shortest-distance-to-a-character](https://github.com/gauravr17/My-coding-journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0892-surface-area-of-3d-shapes](https://github.com/gauravr17/My-coding-journey/tree/master/0892-surface-area-of-3d-shapes) |
+| [0896-monotonic-array](https://github.com/gauravr17/My-coding-journey/tree/master/0896-monotonic-array) |
 ## Trie
 |  |
 | ------- |
