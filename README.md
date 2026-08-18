@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravr17/My-coding-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/gauravr17/My-coding-journey/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauravr17/My-coding-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/gauravr17/My-coding-journey/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/gauravr17/My-coding-journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravr17/My-coding-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/gauravr17/My-coding-journey/tree/master/0169-majority-element) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gauravr17/My-coding-journey/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gauravr17/My-coding-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/gauravr17/My-coding-journey/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/gauravr17/My-coding-journey/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/gauravr17/My-coding-journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/gauravr17/My-coding-journey/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/gauravr17/My-coding-journey/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/gauravr17/My-coding-journey/tree/master/0463-island-perimeter) |
 | [0892-surface-area-of-3d-shapes](https://github.com/gauravr17/My-coding-journey/tree/master/0892-surface-area-of-3d-shapes) |
 ## Monotonic Stack
