@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gauravr17/My-coding-journey/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/gauravr17/My-coding-journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/gauravr17/My-coding-journey/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/gauravr17/My-coding-journey/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/gauravr17/My-coding-journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/gauravr17/My-coding-journey/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/gauravr17/My-coding-journey/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/gauravr17/My-coding-journey/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/gauravr17/My-coding-journey/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/gauravr17/My-coding-journey/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/gauravr17/My-coding-journey/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/gauravr17/My-coding-journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gauravr17/My-coding-journey/tree/master/0119-pascals-triangle-ii) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/gauravr17/My-coding-journey/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/gauravr17/My-coding-journey/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/gauravr17/My-coding-journey/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/gauravr17/My-coding-journey/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/gauravr17/My-coding-journey/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/gauravr17/My-coding-journey/tree/master/0561-array-partition) |
