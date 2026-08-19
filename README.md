@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gauravr17/My-coding-journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/gauravr17/My-coding-journey/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/gauravr17/My-coding-journey/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/gauravr17/My-coding-journey/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/gauravr17/My-coding-journey/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/gauravr17/My-coding-journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/gauravr17/My-coding-journey/tree/master/0069-sqrtx) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/gauravr17/My-coding-journey/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/gauravr17/My-coding-journey/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/gauravr17/My-coding-journey/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/gauravr17/My-coding-journey/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/gauravr17/My-coding-journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/gauravr17/My-coding-journey/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gauravr17/My-coding-journey/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/gauravr17/My-coding-journey/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/gauravr17/My-coding-journey/tree/master/0463-island-perimeter) |
 | [0892-surface-area-of-3d-shapes](https://github.com/gauravr17/My-coding-journey/tree/master/0892-surface-area-of-3d-shapes) |
 ## Monotonic Stack
