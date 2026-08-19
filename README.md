@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/gauravr17/My-coding-journey/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/gauravr17/My-coding-journey/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/gauravr17/My-coding-journey/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/gauravr17/My-coding-journey/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/gauravr17/My-coding-journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/gauravr17/My-coding-journey/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/gauravr17/My-coding-journey/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/gauravr17/My-coding-journey/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/gauravr17/My-coding-journey/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/gauravr17/My-coding-journey/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/gauravr17/My-coding-journey/tree/master/0412-fizz-buzz) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/gauravr17/My-coding-journey/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/gauravr17/My-coding-journey/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/gauravr17/My-coding-journey/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/gauravr17/My-coding-journey/tree/master/0463-island-perimeter) |
 | [0892-surface-area-of-3d-shapes](https://github.com/gauravr17/My-coding-journey/tree/master/0892-surface-area-of-3d-shapes) |
 ## Monotonic Stack
