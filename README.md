@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/gauravr17/My-coding-journey/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/gauravr17/My-coding-journey/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/gauravr17/My-coding-journey/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/gauravr17/My-coding-journey/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/gauravr17/My-coding-journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/gauravr17/My-coding-journey/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gauravr17/My-coding-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
